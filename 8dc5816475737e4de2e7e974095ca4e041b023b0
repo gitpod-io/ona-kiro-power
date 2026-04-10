@@ -1,0 +1,23 @@
+steering/login-and-readiness.md
+  18d627460f3a631e 241
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "8dc5816475737e4de2e7e974095ca4e041b023b0",
+  "prompts": {
+    "18d627460f3a631e": {
+      "agent_id": {
+        "tool": "Ona",
+        "id": "9A957CDE-F4BB-4F55-AEC9-4DB8B4564357",
+        "model": "opus-4.6"
+      },
+      "human_author": "Matt Boyle",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
