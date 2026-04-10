@@ -1,0 +1,35 @@
+README.md
+  4ceccf6bf643f4c0 3,5,7-9,11,24,27-33,44-69,104-108,110-118,129,160,162-176,187-188,203,223-226,239-264,268-271,273
+steering/automation-handoff.md
+  4ceccf6bf643f4c0 5-6,44-46,48-55,92-93
+steering/repo-readiness.md
+  4ceccf6bf643f4c0 3,7,11,26,41-42,68-76
+steering/execution-flow.md
+  4ceccf6bf643f4c0 1-107
+POWER.md
+  4ceccf6bf643f4c0 4-5,10,12,14,16-21,23,25-28,30,32,34-45,47-58,60,62,64,67-86,88-91,93,95,97-99,101,103-129,134,138-139,143,145,147,156-160,162,164,166,168-170,174-178,182-187
+steering/login-and-readiness.md
+  4ceccf6bf643f4c0 11-13,17-18,20,23-24,31-33,37-41,45-46,48-76,88,121-140,152,154-155,166
+steering/delegate-to-ona.md
+  4ceccf6bf643f4c0 20,29,31-44,58-59,75,77,91,95,98-105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "4130c834690a08783575708fe445fa4af0b2751f",
+  "prompts": {
+    "4ceccf6bf643f4c0": {
+      "agent_id": {
+        "tool": "Ona",
+        "id": "E53DF082-9699-496F-814D-C2C5975512AB",
+        "model": "opus-4.6"
+      },
+      "human_author": "Matt Boyle",
+      "messages": [],
+      "total_additions": 489,
+      "total_deletions": 87,
+      "accepted_lines": 489,
+      "overriden_lines": 0
+    }
+  }
+}
