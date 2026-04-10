@@ -1,0 +1,25 @@
+POWER.md
+  bb6acf951e826ecc 1-110
+README.md
+  bb6acf951e826ecc 1-172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "d30a386b795060fb49d29c7aedbf862270cc341f",
+  "prompts": {
+    "bb6acf951e826ecc": {
+      "agent_id": {
+        "tool": "Ona",
+        "id": "35F10AEA-256E-4BF0-9D3E-9FA21F02B3F8",
+        "model": "opus-4.6"
+      },
+      "human_author": "Matt Boyle",
+      "messages": [],
+      "total_additions": 282,
+      "total_deletions": 0,
+      "accepted_lines": 282,
+      "overriden_lines": 0
+    }
+  }
+}
