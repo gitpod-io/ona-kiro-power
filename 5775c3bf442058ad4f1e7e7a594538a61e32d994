@@ -1,0 +1,25 @@
+POWER.md
+  5b54a98876223822 5,10,12,14-16,18,20,22-26,30,32,41,43,52,54,56,58-61,63,65,67-72,74,82
+steering/delegate-to-ona.md
+  5b54a98876223822 37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "5775c3bf442058ad4f1e7e7a594538a61e32d994",
+  "prompts": {
+    "5b54a98876223822": {
+      "agent_id": {
+        "tool": "Ona",
+        "id": "60AD097D-26A2-435D-AE27-640CDEC70750",
+        "model": "opus-4.6"
+      },
+      "human_author": "Matt Boyle",
+      "messages": [],
+      "total_additions": 35,
+      "total_deletions": 170,
+      "accepted_lines": 35,
+      "overriden_lines": 0
+    }
+  }
+}
