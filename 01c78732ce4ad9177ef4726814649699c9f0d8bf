@@ -1,0 +1,31 @@
+steering/execution-flow.md
+  a3f349aae0e3d781 19-26,56-72
+POWER.md
+  a3f349aae0e3d781 19,55,80-81,147-153,187,200,207,218
+steering/login-and-readiness.md
+  a3f349aae0e3d781 19,39-40,51-61,199
+steering/local-setup-flow.md
+  a3f349aae0e3d781 1-105
+README.md
+  a3f349aae0e3d781 10,30,74-87,204,206-214,246-247,262,268-272,328-339
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "01c78732ce4ad9177ef4726814649699c9f0d8bf",
+  "prompts": {
+    "a3f349aae0e3d781": {
+      "agent_id": {
+        "tool": "Ona",
+        "id": "A399B192-E89C-4A3A-B451-6313E0272322",
+        "model": "opus-4.6"
+      },
+      "human_author": "Matt Boyle",
+      "messages": [],
+      "total_additions": 209,
+      "total_deletions": 14,
+      "accepted_lines": 209,
+      "overriden_lines": 0
+    }
+  }
+}
