@@ -1,0 +1,22 @@
+LICENSE
+  s_47114e59297b69::t_e6f65502323bb2 1-21
+POWER.md
+  s_47114e59297b69::t_e6f65502323bb2 5,22
+  s_47114e59297b69::t_00d90f8c68f9d1 4,20-21,23-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "841c15330ba9b612e3f61f925f519689af2b3b3f",
+  "prompts": {},
+  "sessions": {
+    "s_47114e59297b69": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e508e-a679-7802-8441-33b01b009471",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Matt Boyle <matt@gitpod.io>"
+    }
+  }
+}
